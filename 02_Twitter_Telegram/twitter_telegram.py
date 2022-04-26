@@ -1,8 +1,9 @@
-import tweepy
 import os
-from dotenv import load_dotenv
 from datetime import date
+
 import requests
+import tweepy
+from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -17,11 +18,11 @@ class TwitterForwarder:
         self.telegram_api_url = f"https://api.telegram.org/bot{self.TELEGRAM_BOT_TOKEN}"
 
     def run(self):
-        twitt_url = self._get_twitt_url()
+        twitt_url = self._get_tweet_url()
         if twitt_url:
             self._send_telegram_message(twitt_url)
 
-    def _get_twitt_url(self):
+    def _get_tweet_url(self):
         query = self._build_twitter_query()
         tweets = self.twitter_client.search_recent_tweets(query=query)
 

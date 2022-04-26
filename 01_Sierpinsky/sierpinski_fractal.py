@@ -1,6 +1,7 @@
-from dataclasses import dataclass
-import matplotlib.pyplot as plt
 import random
+from dataclasses import dataclass
+
+import matplotlib.pyplot as plt
 
 
 @dataclass
