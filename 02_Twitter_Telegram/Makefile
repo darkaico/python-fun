@@ -5,7 +5,7 @@ req:
 	poetry export -f requirements.txt --output requirements.txt
 
 build-docker:
-	docker build -t twitter-telegram .
+	docker build -t twitter-telegram-fwd .
 
 run-docker:
-	docker run -t twitter-telegram
+	docker run -t twitter-telegram-fwd

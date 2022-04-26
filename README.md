@@ -9,7 +9,7 @@
 
 ### 02 Twitter Forwarding to Telegram
 
-- [Blog Post](https://collectednotes.com/darkaico/tik-tok-y-la-imaginacion)
+- [Blog Post](https://collectednotes.com/darkaico/forwarding-tweets-a-telegram)
 - [Code Example](02_Twitter_Telegram/twitter_telegram.py)
 
 ## General Setup
