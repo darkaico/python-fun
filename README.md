@@ -5,7 +5,7 @@
 ### 01 Sierpinski Fractal
 
 - [Blog Post](https://collectednotes.com/darkaico/tik-tok-y-la-imaginacion)
-- [Examples](01%20Sierpinsky/sierpinski_fractal.ipynb)
+- [Examples](01_Sierpinsky/sierpinski_fractal.ipynb)
 
 ## General Setup
 
