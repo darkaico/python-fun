@@ -2,15 +2,20 @@
 
 ## Examples
 
-### 01 Sierpinski Fractal
+### 01 Marvel Twitter Bot
 
-- [Blog Post](https://collectednotes.com/darkaico/tik-tok-y-la-imaginacion)
+- [Blog Post](https://collectednotes.com/darkaico/suenan-los-androides-con-twits-electricos)
 - [Code Example](01_Sierpinsky/sierpinski_fractal.ipynb)
 
-### 02 Twitter Forwarding to Telegram
+### 02 Sierpinski Fractal
+
+- [Blog Post](https://collectednotes.com/darkaico/tik-tok-y-la-imaginacion)
+- [Code Example](02_Sierpinsky/sierpinski_fractal.ipynb)
+
+### 03 Twitter Forwarding to Telegram
 
 - [Blog Post](https://collectednotes.com/darkaico/forwarding-tweets-a-telegram)
-- [Code Example](02_Twitter_Telegram/twitter_telegram.py)
+- [Code Example](03_Twitter_Telegram/twitter_telegram.py)
 
 ## General Setup
 
