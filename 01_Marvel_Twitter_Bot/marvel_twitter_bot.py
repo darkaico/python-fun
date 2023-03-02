@@ -32,7 +32,9 @@ ts = str(time.time())
 hash_code = hashlib.md5(f"{ts}{private_key}{public_key}".encode("utf-8")).hexdigest()
 
 # 4. Llamar a algun endpoint indicado en la documentaction. Por ejemplo el de personajes
-marvel_url = f"http://gateway.marvel.com/v1/public/characters?ts={ts}&hash={hash_code}&apikey={public_key}"
+marvel_url = (
+    f"http://gateway.marvel.com/v1/public/characters?ts={ts}&hash={hash_code}&apikey={public_key}"
+)
 
 # Listo!
 response = requests.get(marvel_url)
