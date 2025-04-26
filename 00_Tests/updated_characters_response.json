@@ -1,0 +1,654 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "\u00a9 2024 MARVEL",
+  "attributionText": "Data provided by Marvel. \u00a9 2024 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2024 MARVEL</a>",
+  "etag": "259169acdfc60290c6dd0b907219ca5b7820f85b",
+  "data": {
+    "offset": 0,
+    "limit": 100,
+    "total": 1564,
+    "count": 100,
+    "results": [
+      {
+        "id": 1011334,
+        "name": "3-D Man",
+        "description": "",
+        "modified": "2014-04-29T14:18:17-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535fecbbb9784",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011334"
+      },
+      {
+        "id": 1017100,
+        "name": "A-Bomb (HAS)",
+        "description": "Rick Jones has been Hulk's best bud since day one, but now he's more than a friend...he's a teammate! Transformed by a Gamma energy explosion, A-Bomb's thick, armored skin is just as strong and powerful as it is blue. And when he curls into action, he uses it like a giant bowling ball of destruction! ",
+        "modified": "2013-09-18T15:54:04-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5232158de5b16",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017100"
+      },
+      {
+        "id": 1009144,
+        "name": "A.I.M.",
+        "description": "AIM is a terrorist organization bent on destroying the world.",
+        "modified": "2013-10-17T14:41:30-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52602f21f29ec",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144"
+      },
+      {
+        "id": 1009146,
+        "name": "Abomination (Emil Blonsky)",
+        "description": "Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk.",
+        "modified": "2014-06-27T19:39:07-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce18691cbf04",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009146"
+      },
+      {
+        "id": 1009148,
+        "name": "Absorbing Man",
+        "description": "",
+        "modified": "2016-05-25T12:04:23-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5269678709fb7",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148"
+      },
+      {
+        "id": 1009149,
+        "name": "Abyss",
+        "description": "",
+        "modified": "2014-04-29T14:10:43-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/535feab462a64",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009149"
+      },
+      {
+        "id": 1010903,
+        "name": "Abyss (Age of Apocalypse)",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c00358ec7548",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010903"
+      },
+      {
+        "id": 1010354,
+        "name": "Adam Warlock",
+        "description": "Adam Warlock is an artificially created human who was born in a cocoon at a scientific complex called The Beehive.",
+        "modified": "2016-05-05T15:34:56-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/5202887448860",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354"
+      },
+      {
+        "id": 1010846,
+        "name": "Aegis (Trey Rollins)",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c0035c9c425d",
+          "extension": "gif"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010846"
+      },
+      {
+        "id": 1012717,
+        "name": "Agatha Harkness",
+        "description": "",
+        "modified": "2021-08-06T11:30:56-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4ce5a9bf70e19",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1012717"
+      },
+      {
+        "id": 1011297,
+        "name": "Agent Brand",
+        "description": "",
+        "modified": "2013-10-24T13:09:30-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/52695285d6e7e",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011297"
+      },
+      {
+        "id": 1009150,
+        "name": "Agent Zero",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009150"
+      },
+      {
+        "id": 1011198,
+        "name": "Agents of Atlas",
+        "description": "",
+        "modified": "2016-02-03T10:25:22-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ce18a834b7f5",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011198"
+      },
+      {
+        "id": 1011136,
+        "name": "Air-Walker (Gabriel Lan)",
+        "description": "",
+        "modified": "2024-09-24T11:11:31-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/66f2d68d99dc8",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011136"
+      },
+      {
+        "id": 1011176,
+        "name": "Ajak",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011176"
+      },
+      {
+        "id": 1010870,
+        "name": "Ajaxis",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0035adc7d3a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010870"
+      },
+      {
+        "id": 1010836,
+        "name": "Alex Power",
+        "description": "",
+        "modified": "2011-10-27T09:57:58-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a385a2e82",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010836"
+      },
+      {
+        "id": 1010755,
+        "name": "Alex Wilder",
+        "description": "Despite being the only one of the Runaways without any superhuman abilities or tech, Alex Wilder became the de facto leader of the group due to his natural leadership skills and intellect, as well as prodigy-level logic and strategy.",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c00377144d5a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010755"
+      },
+      {
+        "id": 1014990,
+        "name": "Alice",
+        "description": "",
+        "modified": "2010-11-18T16:01:44-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4cd061e6d6573",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014990"
+      },
+      {
+        "id": 1009435,
+        "name": "Alicia Masters",
+        "description": "",
+        "modified": "2010-11-04T15:22:16-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003d40ac7ae",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009435"
+      },
+      {
+        "id": 1010370,
+        "name": "Alpha Flight",
+        "description": "",
+        "modified": "2016-05-05T14:39:01-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/52695277ee088",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370"
+      },
+      {
+        "id": 1011227,
+        "name": "Amadeus Cho",
+        "description": "",
+        "modified": "2013-08-07T13:50:56-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011227"
+      },
+      {
+        "id": 1011361,
+        "name": "American Eagle (Jason Strongbow)",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011361"
+      },
+      {
+        "id": 1009152,
+        "name": "Ancient One",
+        "description": "",
+        "modified": "2016-08-16T15:14:52-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4ce59ea2103ac",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009152"
+      },
+      {
+        "id": 1011396,
+        "name": "Angel (Thomas Halloway)",
+        "description": "",
+        "modified": "2014-03-05T13:14:48-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011396"
+      },
+      {
+        "id": 1011338,
+        "name": "Angel (Ultimate)",
+        "description": "",
+        "modified": "2014-03-05T13:15:49-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/531769ae4399f",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011338"
+      },
+      {
+        "id": 1017574,
+        "name": "Angela (Aldrif Odinsdottir)",
+        "description": "",
+        "modified": "2014-11-17T17:45:37-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/545a82f59dd73",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574"
+      },
+      {
+        "id": 1010674,
+        "name": "Anita Blake",
+        "description": "",
+        "modified": "2016-03-07T14:03:57-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0038fa14452",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010674"
+      },
+      {
+        "id": 1009154,
+        "name": "Annihilus",
+        "description": "",
+        "modified": "2013-11-20T17:06:36-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009154"
+      },
+      {
+        "id": 1011301,
+        "name": "Anole",
+        "description": "",
+        "modified": "2011-06-21T17:51:53-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e635ddd9",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011301"
+      },
+      {
+        "id": 1010802,
+        "name": "Ant-Man (Eric O'Grady)",
+        "description": "",
+        "modified": "2016-03-07T14:35:42-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010802"
+      },
+      {
+        "id": 1010801,
+        "name": "Ant-Man (Scott Lang)",
+        "description": "",
+        "modified": "2017-01-31T11:03:40-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52696868356a0",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010801"
+      },
+      {
+        "id": 1009156,
+        "name": "Apocalypse",
+        "description": "",
+        "modified": "2014-05-28T12:41:41-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/526166076a1d0",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156"
+      },
+      {
+        "id": 1010866,
+        "name": "Aqueduct",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010866"
+      },
+      {
+        "id": 1010773,
+        "name": "Arachne",
+        "description": "",
+        "modified": "2013-10-24T13:07:59-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/5269526591794",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010773"
+      },
+      {
+        "id": 1009158,
+        "name": "Arcade",
+        "description": "",
+        "modified": "2014-01-27T16:30:15-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0042091ab69",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158"
+      },
+      {
+        "id": 1009159,
+        "name": "Archangel",
+        "description": "",
+        "modified": "2013-10-18T12:48:24-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/526165ed93180",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159"
+      },
+      {
+        "id": 1009160,
+        "name": "Arclight",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009160"
+      },
+      {
+        "id": 1010784,
+        "name": "Ares",
+        "description": "",
+        "modified": "2014-04-29T14:50:59-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/535ff3daea603",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010784"
+      },
+      {
+        "id": 1011012,
+        "name": "Armadillo",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4c0032754da02",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011012"
+      },
+      {
+        "id": 1011298,
+        "name": "Armor (Hisako Ichiki)",
+        "description": "",
+        "modified": "2012-03-07T17:26:33-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e6cbf990",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011298"
+      },
+      {
+        "id": 1009740,
+        "name": "Arnim Zola",
+        "description": "The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world's leading biochemist and genetic engineer.",
+        "modified": "2014-01-27T16:36:22-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00393a4cb7c",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009740"
+      },
+      {
+        "id": 1010748,
+        "name": "Arsenic",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010748"
+      },
+      {
+        "id": 1011758,
+        "name": "Attuma",
+        "description": "Attuma was born into the tribe of Homo mermanus who eschewed civilization to live as nomadic barbarians. For some unrecorded reason, Attuma was endowed with strength far surpassing that of his people.",
+        "modified": "2021-08-27T21:46:12-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a862a6c48",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011758"
+      },
+      {
+        "id": 1009163,
+        "name": "Aurora",
+        "description": "",
+        "modified": "2011-11-21T15:44:06-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c004203f1072",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163"
+      },
+      {
+        "id": 1009164,
+        "name": "Avalanche",
+        "description": "",
+        "modified": "2010-11-05T14:30:34-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c0042010d383",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009164"
+      },
+      {
+        "id": 1009165,
+        "name": "Avengers",
+        "description": "Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earth's No. 1 team.",
+        "modified": "2020-07-21T10:29:09-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+      },
+      {
+        "id": 1011456,
+        "name": "Balder",
+        "description": "",
+        "modified": "2021-08-13T00:06:18-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4ce5a7c2814ba",
+          "extension": "gif"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011456"
+      },
+      {
+        "id": 1009168,
+        "name": "Banshee",
+        "description": "",
+        "modified": "2013-11-01T16:27:08-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168"
+      },
+      {
+        "id": 1009596,
+        "name": "Banshee (Theresa Rourke)",
+        "description": "The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom.",
+        "modified": "2011-09-07T09:44:45-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596"
+      },
+      {
+        "id": 1011778,
+        "name": "Baron Mordo (Karl Mordo)",
+        "description": "Born in 1921, Karl Mordo was the son of Nikolai Mordo.  He vowed that, as the second Baron Mordo, he would achieve his father\u2019s hopes and more.",
+        "modified": "2021-08-12T22:48:49-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4ce5a86dba8a8",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011778"
+      },
+      {
+        "id": 1009169,
+        "name": "Baron Strucker",
+        "description": "",
+        "modified": "2015-04-14T18:50:25-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009169"
+      },
+      {
+        "id": 1009170,
+        "name": "Baron Zemo (Heinrich Zemo)",
+        "description": "",
+        "modified": "2017-08-24T12:46:19-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0041f84c9fe",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170"
+      },
+      {
+        "id": 1010906,
+        "name": "Baron Zemo (Helmut Zemo)",
+        "description": "",
+        "modified": "2016-02-03T16:47:48-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035890fb0a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010906"
+      },
+      {
+        "id": 1009171,
+        "name": "Bastion",
+        "description": "",
+        "modified": "2013-10-24T13:07:45-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009171"
+      },
+      {
+        "id": 1009172,
+        "name": "Batroc the Leaper",
+        "description": "",
+        "modified": "2014-04-03T17:26:39-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce59eb840da5",
+          "extension": "gif"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009172"
+      },
+      {
+        "id": 1009173,
+        "name": "Battering Ram",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708",
+          "extension": "gif"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009173"
+      },
+      {
+        "id": 1009174,
+        "name": "Beak",
+        "description": "",
+        "modified": "2011-06-01T16:04:59-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0040b8329ad",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009174"
+      }
+    ]
+  }
+}

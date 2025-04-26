@@ -1,0 +1,965 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "\u00a9 2024 MARVEL",
+  "attributionText": "Data provided by Marvel. \u00a9 2024 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2024 MARVEL</a>",
+  "etag": "2197c27e05ba5b6c01e640a38027144e01351f94",
+  "data": {
+    "offset": 0,
+    "limit": 80,
+    "total": 73,
+    "count": 73,
+    "results": [
+      {
+        "id": 116,
+        "title": "Acts of Vengeance!",
+        "description": "Loki sets about convincing the super-villains of Earth to attack heroes other than those they normally fight in an attempt to destroy the Avengers to absolve his guilt over inadvertently creating the team in the first place.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "modified": "2013-06-28T16:31:24-0400",
+        "start": "1989-12-10 00:00:00",
+        "end": "2008-01-04 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/51ca10d996b8b",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 227,
+        "title": "Age of Apocalypse",
+        "description": "In a twisted version of the world they knew, the X-Men battle against the eternal mutant Apocalypse as Bishop seeks to repair the timeline. Legion, Xavier's own son, attempts to kill off all of Xavier's enemies; however, when Legion attempts to murder Magneto, Xavier sacrifices his own life to save Magnus. As a result, Magneto casts off his anti-human sentiments and carries on Xavier's dream of peaceful co-existence, thereby founding the X-Men.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "modified": "2014-06-13T11:42:39-0400",
+        "start": "1995-03-01 00:00:00",
+        "end": "1996-06-01 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/51ca0e08a6546",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 314,
+        "title": "Age of Ultron",
+        "description": "In a 10-issue event written by Brian Michael Bendis with art by Bryan Hitch, Carlos Pacheco, Brandon Peterson and more, the heroes of the Marvel Universe have already fallen with the robot Ultron remaking the world in his image. The surviving Avengers, X-Men and others must fight through time and space in the hope of defeating their foe by any means necessary!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+        "modified": "2014-03-25T15:39:52-0400",
+        "start": "2013-03-06 00:00:00",
+        "end": "2013-06-19 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51ca0fc4c83c8",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 303,
+        "title": "Age of X",
+        "description": "In a strange reality where the X-Men never came to be, the war between humans and mutants has escalated to a level never before seen. What has become of our heroes and who will survive as the final war commences?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+        "modified": "2013-06-28T18:34:27-0400",
+        "start": "2011-01-26 00:00:00",
+        "end": "2011-05-01 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/51ca12a34615b",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 329,
+        "title": "All-New All-Different Marvel",
+        "description": "This fall, prepare for an all-new, all-different Marvel Universe to begin!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/329",
+        "modified": "2015-10-01T17:37:36-0400",
+        "start": null,
+        "end": null,
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/55bfa91b34ac4",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 229,
+        "title": "Annihilation",
+        "description": "Parallel stories pitting the Silver Surfer, Nova, Ronan the Accuser and the Super-Skrull against Annihilus and his forces lead into a climatic six-issue war written by Keith Giffen with art by Andrea DiVito! Follow the machinations of Thanos, the power of Galactus and the early seeds that will create the Guardians of the Galaxy!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/229",
+        "modified": "2013-06-25T15:16:21-0400",
+        "start": "2007-06-20 00:00:00",
+        "end": "2008-06-01 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/51c9ec5e90de1",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 293,
+        "title": "Annihilation: Conquest",
+        "description": "The Phalanx have a new leader in the killer robot Ultron, and he's looking for nothing less than univesal conquest! They've already taken the Kree and assimilated heroes like Ronan and Drax; can a rag tag group including Star-Lord, Quasar, Wraith and the reborn Adam Warlock stop them?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/293",
+        "modified": "2013-06-28T17:55:53-0400",
+        "start": "2007-06-20 00:00:00",
+        "end": "2009-01-14 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/51c9ed1304bb7",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 231,
+        "title": "Armor Wars",
+        "description": "Tony Stark discovers that someone has been stealing his Iron Man tech and selling it to supervillains. He decides he must do whatever it takes to reacquire -- or destroy -- the stolen tech.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/231",
+        "modified": "2014-01-02T12:19:28-0500",
+        "start": "1987-12-10 00:00:00",
+        "end": "2010-03-17 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51ca13895b3ab",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 233,
+        "title": "Atlantis Attacks",
+        "description": "Ghaur returns to complete his quest to resurrect the evil god Set, but his plan is opposed by Earth's heroes.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "modified": "2013-06-25T13:49:06-0400",
+        "start": "1989-01-01 00:00:00",
+        "end": "2011-02-16 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/51c9d7f42a0c8",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 234,
+        "title": "Avengers Disassembled",
+        "description": "Writer Brian Michael Bendis kicks off his historic run with the Avengers by bringing the previous era to a close alongside artist David Finch! Chaos reigns when of Earth\u00e2\u20ac\u2122s Mightiest Heroes turns against their teammates, leading the Avengers into a battle that not all will survive! Featuring Iron Man, Captain America, Hawkeye, the Scarlet Witch and more!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+        "modified": "2013-10-18T16:38:16-0400",
+        "start": "2004-07-28 00:00:00",
+        "end": "2005-01-01 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/52127e32d3671",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 322,
+        "title": "Avengers NOW!",
+        "description": "Sam Wilson, formerly the Falcon, becomes the All-New Captain America! When Thor proves unworthy, a female God of Thunder rises up! Tony Stark declares himself the Superior Iron Man! Earth's Mightiest Heroes undergo major changes across the board!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/322",
+        "modified": "2015-08-03T12:17:04-0400",
+        "start": "2037-01-01 01:00:00",
+        "end": "2037-01-01 01:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/53fe0732c1f02",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 310,
+        "title": "Avengers VS X-Men",
+        "description": "A 12-issue event written by the unprecedented team of Brian Michael Bendis, Jason Aaron, Jonathan Hickman, Ed Brubaker and Matt Fraction with art by the blockbuster trio of John Romita Jr., Olivier Coipel and Adam Kubert, Avengers VS X-Men brings Marvel's biggest characters up against the greatest threat they've ever faced: each other!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+        "modified": "2020-02-28T14:25:37-0500",
+        "start": "2012-04-04 00:00:00",
+        "end": "2012-09-19 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5109a1f93b543",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 320,
+        "title": "Axis",
+        "description": "The Red Skull has taken over Genosha and stands poised to plunge the planet into World War Hate! The Avengers and X-Men must team-up with each other and some of their greatest foes, but along the way, Inversion changes everything! Anything can happen in this nine-issue event written by Rick Remender with the art of Jim Cheung, Terry Dodson, Adam Kubert and Leinil Yu!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/320",
+        "modified": "2014-08-22T15:20:00-0400",
+        "start": "2014-10-08 00:01:00",
+        "end": "2014-12-17 11:59:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/53f77ba25db97",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 235,
+        "title": "Blood and Thunder",
+        "description": "Driven mad by the machinations of the evil Valkyrie, Thor sets out to destroy the Nine Worlds but is opposed by the Silver Surfer, Warlock and the Infinity Watch.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/235",
+        "modified": "2013-06-25T15:04:41-0400",
+        "start": "1993-11-10 00:00:00",
+        "end": "1994-02-10 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/51c9e9945b152",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 296,
+        "title": "Chaos War",
+        "description": "When the Chaos King embarks on a campaign to wipe out all of existence, Hercules gathers the God Squad to stand in his way! Writers Greg Pak and Fred Van Lente join artist Khoi Pham to pit Herc and his rag tag team\u00e2\u20ac\u201dincluding Thor, the Silver Surfer and Amadeus Cho\u00e2\u20ac\u201dagainst an all-powerful evil as dead heroes and villains rise around them!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+        "modified": "2013-06-21T11:10:00-0400",
+        "start": "2010-10-01 00:00:00",
+        "end": "2011-03-06 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/5109a003a9112",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 238,
+        "title": "Civil War",
+        "description": "After a horrific tragedy raises questions on whether or not super heroes should register with the government, longtime Avengers teammates Captain America and Iron Man end up on opposite sides of the argument! Writer Mark Millar and artist Steve McNiven split the Marvel Universe in two as friend fights friend in one of the most celebrated and successful events of all-time!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "modified": "2013-11-07T10:40:01-0500",
+        "start": "2006-07-01 00:00:00",
+        "end": "2007-01-29 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/51cb5356c2063",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 330,
+        "title": "Civil War II",
+        "description": "The drums of war beat for the Marvel Universe this June, as Civil War II #1 arrives with a double-size issue! Blockbuster creators Brian Michael Bendis, David Marquez, and Justin Ponsor bring readers a Marvel Universe divided\u2014with Iron Man and Captain Marvel leading opposing sides! A new power has emerged, one that can predict the future. Will the heroes fight to protect the future or change the future? Choose your side!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/330",
+        "modified": "2016-05-09T12:48:25-0400",
+        "start": null,
+        "end": null,
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/56d082ff38722",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 239,
+        "title": "Crossing",
+        "description": "Iron Man betrays the Avengers to Kang at the cost of several lives, ultimately including his own.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/239",
+        "modified": "2013-10-18T12:32:59-0400",
+        "start": "1995-09-10 00:00:00",
+        "end": "1996-02-10 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/51cb2d77a0410",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 318,
+        "title": "Dark Reign",
+        "description": "Norman Osborn came out the hero of Secret Invasion, and now the former Green Goblin has been handed control of the Marvel Universe. With his Cabal and the Dark Avengers at his side, can anything stop this long time villain from reshaping the world in his own image? And what has become of the heroes?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "modified": "2013-11-20T12:51:39-0500",
+        "start": "2008-12-01 00:00:00",
+        "end": "2009-12-31 12:59:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/528cf4ac6c15f",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 240,
+        "title": "Days of Future Present",
+        "description": "An adult Franklin Richards travels back from the year 2017 to repair perceived \"inaccuracies\" in the timeline by altering reality. Richards' tampering of reality triggers a Sentinel program that awakens Ahab, the mutant hound-master, who attempts to apprehend the adult Richards in order to prevent any deviations from the timeline that spurs the Sentinel-ruled North America.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+        "modified": "2013-10-18T12:33:05-0400",
+        "start": "1990-01-01 00:00:00",
+        "end": "1990-01-23 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/51cb2ea890038",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 332,
+        "title": "Dead No More: The Clone Conspiracy",
+        "description": "The Jackal has returned and initiated the Clone Conspiracy! Spider-Man and his allies must contend with friends and enemies alike back from the dead in a limited series by Dan Slott and Jim Cheung that spills into all of the Spidey titles!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/332",
+        "modified": "2023-09-26T11:55:19-0400",
+        "start": "2016-10-12 01:00:00",
+        "end": "2017-02-01 01:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/57e94a282c8de",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 245,
+        "title": "Enemy of the State",
+        "description": "HYDRA, the Hand and a mutant group known as the Dawn of the White Light formed an alliance the purpose of which was to kill and resurrect superheroes under their control, starting with Wolverine. The alliance used Wolverine for various missions until he was recovered by S.H.I.E.L.D. and deprogrammed. Wolverine vowed to dismantle HYDRA and the Hand for what they did to him and for what they made him do.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+        "modified": "2013-06-28T17:36:21-0400",
+        "start": "2004-10-06 00:00:00",
+        "end": "2005-02-11 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/51ca1befe36df",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 246,
+        "title": "Evolutionary War",
+        "description": "The High Evolutionary intends to help humanity reach the next stage of its evolution, regardless of the consequences, and embarks on a series of plans to attain his goal.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "modified": "2013-06-26T14:14:50-0400",
+        "start": "1988-01-01 00:00:00",
+        "end": "1988-10-10 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/51cb2f6c91c24",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 297,
+        "title": "Fall of the Hulks",
+        "description": "The Leader, M.O.D.O.K. and their allies in the Intelligencia launch their ultimate plan to defeats the Hulks! Unfortunately the good guys, Bruce Banner's a powerless, Skaar's a wild card and Red Hulk can't be trusted.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/297",
+        "modified": "2013-10-18T12:33:23-0400",
+        "start": "2009-12-03 00:00:00",
+        "end": "2010-04-20 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/51ca19c3009a3",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 248,
+        "title": "Fall of the Mutants",
+        "description": "The X-Men battled the Adversary in Dallas, and X-Factor clashed with the Horsemen of Apocalypse in New York, while the New Mutants confronted the insane Ani-Mator on Paradise Island.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/248",
+        "modified": "2013-06-26T14:14:30-0400",
+        "start": "1988-01-10 00:00:00",
+        "end": "2007-01-17 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/51cb2f521ae35",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 249,
+        "title": "Fatal Attractions",
+        "description": "Magneto returns, more powerful than ever, and Professor X realizes it's time for their decades-long conflict to end, permanently. Professor X and Magneto square off against each other aboard Asteroid M and after Magneto strips Wolverine of his adamantium Professor X destroys Magneto's mind. Colussus stays behind to care for Magneto since he has now defected to the Acolytes.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+        "modified": "2013-06-28T17:11:09-0400",
+        "start": "1993-07-10 00:00:00",
+        "end": "1993-11-10 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/51cb2e2ff3d6e",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 302,
+        "title": "Fear Itself",
+        "description": "The Serpent, God of Fear and brother to the Allfather Odin, rises to challenge Earth\u00e2\u20ac\u2122s Mightiest in a seven-issue event written by Matt Fraction with art by Stuart Immonen! As the Worthy, heralds of the Serpent, lay waste to the Marvel Universe, how can Thor, Captain America, Iron Man and the Avengers turn back the tide of fear?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "modified": "2013-06-21T11:17:51-0400",
+        "start": "2011-04-16 00:00:00",
+        "end": "2011-10-18 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/51099f8823d43",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 287,
+        "title": "Heroic Age",
+        "description": "Still lurking in the shadows are forces of evil and cosmic-level threats, but a new spirit of hope, courage, and the selflessness at the heart of heroism will rise up. The most extraordinary tales will be told in this Heroic Age of the Marvel Universe.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/287",
+        "modified": "2013-11-18T17:35:22-0500",
+        "start": "2010-04-25 00:00:00",
+        "end": "2012-04-25 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/51ca1926979f4",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 251,
+        "title": "House of M",
+        "description": "When the Scarlet Witch alters reality, the Avengers and X-Men face a world like none they\u00e2\u20ac\u2122ve ever known! Writer Brian Michael Bendis and artist Olivier Coipel re-imagine the Marvel Universe with Magneto bringing mutantkind to prominence in an eight-issue event. As the only person who remembers how things used to be, can Wolverine set things right? Should he?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "modified": "2013-06-26T16:48:31-0400",
+        "start": "2005-06-01 00:00:00",
+        "end": "2005-11-28 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/51cb5330eabdf",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 252,
+        "title": "Inferno",
+        "description": "The demon-sorcerer N'astirh not only wished to rule Limbo, but Earth as well. He conceived of a plot to kidnap 13 human babies in order to sacrifice them in a ritual known as Inferno. Using the babies' energy, he opened a portal between Limbo and Earth, which grew unnaturally hot and people began to succumb to their evil desires. Inferno had begun.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+        "modified": "2013-12-26T14:33:10-0500",
+        "start": "1988-12-10 00:00:00",
+        "end": "2010-08-25 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/51cb2ed5d688f",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 315,
+        "title": "Infinity",
+        "description": "While the most powerful Avengers journey into outer space in an attempt to unite the universe against the Builders, Thanos attacks the Earth in a six-issue event written by Jonathan Hickman with the art of Jim Cheung, Jerome Opena and Dustin Weaver! Featuring the Guardians of the Galaxy, the Inhumans and many more!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+        "modified": "2013-12-24T10:52:15-0500",
+        "start": "2013-08-14 00:00:00",
+        "end": "2013-10-31 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/51c4aaa0b1f4f",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 253,
+        "title": "Infinity Gauntlet",
+        "description": "When the Mad Titan, Thanos, acquires the all-powerful Infinity Gauntlet and erases half the universe, the survivors must attempt to topple an omnipotent opponent! Led by the resurrected Adam Warlock and aided by primal cosmic forces, Earth\u00e2\u20ac\u2122s protectors enter cosmic warfare in a six-issue event written by Jim Starlin and featuring the art of George Perez and Ron Lim!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/253",
+        "modified": "2020-02-28T14:13:02-0500",
+        "start": "1991-07-10 00:00:00",
+        "end": "2005-01-19 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/5b749e4888ba7",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 29,
+        "title": "Infinity War",
+        "description": "The Magus, the purged, evil side of Adam Warlock believed to have been dead, has returned in order to collect the Infinity Gems and recreate the Infinity Gauntlet itself. He sent evil doppelgangers of Marvel's superheroes to attack and usurp the originals. Thanos, exiled since his defeat during the Infinity Gauntlet event, learned of the Magus' plans and set out to aid Adam Warlock and the heroes in defending the universe.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+        "modified": "2014-06-10T16:08:04-0400",
+        "start": "1992-06-10 00:00:00",
+        "end": "1992-11-10 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/10/51ca14b3dce00",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 317,
+        "title": "Inhumanity",
+        "description": "Following Infinity, the actions of Black Bolt have affected not only his people, but the entire Marvel Universe, as a new race of Inhumans rises up! Witness change for every major Marvel character, led by Inhuman, a new series from Matt Fraction and Joe Madureira!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/317",
+        "modified": "2013-11-08T16:13:30-0500",
+        "start": "2013-12-04 00:01:00",
+        "end": "2014-01-29 23:59:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/527d53d8e4754",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 334,
+        "title": "Inhumans Vs. X-Men",
+        "description": "With the Inhumans' power-granting Terrigen mists threatening the lives of every mutant on the planet, the X-Men have no choice but to declare war! Writers Jeff Lemire and Charles Soule along with artist Leinil Francis Yu chronicle the conflict with a six-issue limited series kicking off in December 2016!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/334",
+        "modified": "2016-11-15T11:27:54-0500",
+        "start": null,
+        "end": null,
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/582b35637d930",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 255,
+        "title": "Initiative",
+        "description": "After the partial destruction of Stamford, CT, the United States federal government enacted the Superhero Registration Act, a law designed to monitor, regulate, train and coordinate America's superheroes. The Initiative was an outgrowth of the SHRA, created by Tony Stark, the purpose of which was to place standby superhero teams in all 50 states.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "modified": "2013-11-18T17:38:03-0500",
+        "start": "2007-04-15 00:00:00",
+        "end": "2010-06-20 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51ca144e65666",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 328,
+        "title": "James Patterson's Max Ride",
+        "description": "The outcast teenagers of James Patterson's best selling \"Maximum Ride\" novel series come to comics! It's up to these super-powered young people to save a world that has left them behind!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/328",
+        "modified": "2015-03-12T18:22:31-0400",
+        "start": null,
+        "end": null,
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/54ff02618b9e2",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 32,
+        "title": "Kings of Pain",
+        "description": "The terrorist organization A.I.M. seek to resurrect the powerful reality-altering mutant named Proteus, and it's up to the various X-teams and the New Warriors to stop them.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/32",
+        "modified": "2017-01-26T12:05:41-0500",
+        "start": "1991-01-01 07:00:00",
+        "end": "1992-05-11 07:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/51c9e88b7fbd9",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 258,
+        "title": "Kraven's Last Hunt",
+        "description": "Frustrated with his repeated failed attempts at killing Spider-Man, Kraven the Hunter hatches a final plot to best his adversary, shooting and burying him alive. With his enemy out of the way, Kraven dons a Spider-Man costume and patrols the city, intent on proving himself a better hero. The real Spider-Man soon awakens and hunts the Hunter!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/258",
+        "modified": "2013-10-18T12:38:02-0400",
+        "start": "1987-10-10 00:00:00",
+        "end": "2012-03-21 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/51ca1d97b2390",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 311,
+        "title": "Marvel NOW!",
+        "description": "The greatest creators in comics bring the best characters to life monthly in Marvel NOW! Get all the latest on who will be shining as the Marvel Universe continues to push the envelope every month!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+        "modified": "2014-01-22T11:53:23-0500",
+        "start": "2012-10-10 00:01:00",
+        "end": "2037-12-31 01:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/52dff73b794a9",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 151,
+        "title": "Maximum Carnage",
+        "description": "Breaking out of prison, Carnage collected several psychopathic super villains and went on a rampage. Spider-Man and Venom came into an uneasy alliance to try and defeat Carnage and his twisted \"family\" with the help of such disparate heroes as Captain America, Morbius and others.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+        "modified": "2013-06-25T18:49:10-0400",
+        "start": "1993-05-01 00:00:00",
+        "end": "1993-08-22 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51ca1e3d6b2f9",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 37,
+        "title": "Maximum Security",
+        "description": "At a meeting of the Shi'Ar intergalactic council, after numerous races lodge complaints against humanity, it is decided that Earth will become a prison planet. Unfortunately, one of the prisoners sentenced to Earth is Ego the Living Planet, who proceeds to expand exponentially, threatening the entire planet. It is soon discovered that one of the complaining races, the Ruul, are the Kree, whose Supreme Intelligence evolved them using the Destiny Crystal and manipulated the council to destroy Earth's heroes!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+        "modified": "2013-06-25T13:54:17-0400",
+        "start": "2000-12-01 00:00:00",
+        "end": "2001-01-03 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51c9d921d6910",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 299,
+        "title": "Messiah CompleX",
+        "description": "It's a race between the X-Men, the Marauders, the Purifiers and more to claim the first mutant baby born since Decimation and control the future of mutantkind!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "modified": "2013-06-25T15:24:14-0400",
+        "start": "2007-10-31 00:00:00",
+        "end": "2008-01-30 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/51c9ee4003880",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 298,
+        "title": "Messiah War",
+        "description": "X-Force has traveled years into the future to aid Cable against his greatest foe, Stryfe, with the life of Hope, the mutant messiah, in the balance!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/298",
+        "modified": "2013-06-26T16:27:22-0400",
+        "start": "2009-05-01 00:00:00",
+        "end": "2009-07-23 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/51ca1a80a0d99",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 337,
+        "title": "Monsters Unleashed",
+        "description": "Watch out as Monsters Unleashed rumbles into the Marvel Universe with terrifying threats new and old! Marvel's top heroes face monstrous challenges in a five-issue limited series written by Cullen Bunn and featuring the artistic talents of Adam Kubert, Greg Land, Salvador Larroca, Steve McNiven, and Leinil Yu! Can anybody stop the Monsters Unleashed? ",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/337",
+        "modified": "2018-05-25T11:16:17-0400",
+        "start": null,
+        "end": null,
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5b081f820536f",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 263,
+        "title": "Mutant Massacre",
+        "description": "The underground community of mutants known as the Morlocks are slaughtered by the villainous Marauders at the behest of Mister Sinister. Investigating, the X-Men, X-Factor and other heroes find themselves locked in a life or death struggle to save the surviving Morlocks from extermination.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+        "modified": "2013-06-25T18:42:15-0400",
+        "start": "1986-10-10 00:00:00",
+        "end": "2010-01-06 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/51ca1ca2dc75b",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 154,
+        "title": "Onslaught",
+        "description": "The evil within Professor Charles Xavier combines with the power of Magneto to create Onslaught, perhaps the greatest threat ever to the Marvel Universe! It begins with the X-Men, but before the end, the Avengers, the Fantastic Four and the rest of Earth's greatest heroes will know sacrifice before victory!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "modified": "2015-10-26T16:52:28-0400",
+        "start": "1996-07-01 07:00:00",
+        "end": "1996-10-24 07:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/51cb2cc1a49b6",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 319,
+        "title": "Original Sin",
+        "description": "Earth's Mightiest Heroes discover Uatu, the Watcher, dead on the moon, a murder mystery ensues that will reveal shocking secrets about every major Marvel character! Jason Aaron and Mike Deodato lead the Avengers, Spider-Man, the Hulk and many more on status-quo altering eight-past adventure!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/319",
+        "modified": "2014-03-28T11:47:59-0400",
+        "start": "2014-05-01 00:00:00",
+        "end": "2014-08-31 23:59:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/5334854135807",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 266,
+        "title": "Other - Evolve or Die",
+        "description": "Just as Spider-Man discovers he's dying from a mysterious disease, Morlun seemingly returns from the dead. Morlun attacks Spider-Man, with the intention of absorbing his essence. But when Morlun threatens Mary Jane, Spider-Man savagely protects her, biting Morlun and absorbing his essence, killing him. Spider-Man dies in Mary Jane's arms and his body is taken to Stark Tower, where something emerges from the body and forms a cocoon from which a revitalized Peter Parker soon breaks free with newfound powers. ",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/266",
+        "modified": "2018-05-25T11:04:31-0400",
+        "start": "2005-12-12 07:00:00",
+        "end": "2006-03-21 07:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/51cb2d3ee5cbb",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 212,
+        "title": "Planet Hulk",
+        "description": "After being exiled from Earth by the Illuminati, Hulk found himself on the planet Sakaar, where he was imprisoned and forced to do gladiatorial battle in the emperor's arena. Hulk and his compatriots quickly rose through the ranks, and were soon approached by a rebellion that plotted to overthrow the emperor. Hulk declined, and the rebels were detained. But rather than killing them in the arena, Hulk helped them escape, and led his fellow gladiators to freedom.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/212",
+        "modified": "2013-06-25T18:36:13-0400",
+        "start": "2006-04-01 00:00:00",
+        "end": "2007-06-02 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/51ca1b3671a48",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 304,
+        "title": "Point One",
+        "description": "A great jumping on point for new readers setting up new stories and conflicts for Marvel's top heroes!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/304",
+        "modified": "2013-11-18T17:41:03-0500",
+        "start": "2011-08-03 00:00:00",
+        "end": "2037-01-01 01:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/5109a2d41d1dd",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 295,
+        "title": "Realm of Kings",
+        "description": "The fallout from the epic battle between Black Bolt and Vulcan has opened a tear in the universe and into the mysterious Fault. What bizarre menaces now face Nova, the Guardians of the Galaxy, the Inhumans and the Imperial Guard?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/295",
+        "modified": "2013-06-25T18:14:50-0400",
+        "start": "2010-01-11 00:00:00",
+        "end": "2010-05-21 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/51ca16391facf",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 336,
+        "title": "Secret Empire",
+        "description": "Steve Rogers has gone rogue and taken over the United States! It's up to the united forces of the Avengers, the Champions, the X-Men and more to bring down one of their own in the nine-issue limited series written by Nick Spencer!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/336",
+        "modified": "2017-06-30T11:32:46-0400",
+        "start": "2017-04-19 01:00:00",
+        "end": "2017-08-09 01:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/58e692d6f351b",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 269,
+        "title": "Secret Invasion",
+        "description": "The shape-shifting Skrulls have been infiltrating the Earth for years, replacing many of Marvel's heroes with impostors, setting the stage for an all-out invasion.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "modified": "2015-01-20T14:58:35-0500",
+        "start": "2008-06-02 00:00:00",
+        "end": "2009-01-25 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/51ca1749980ae",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 270,
+        "title": "Secret Wars",
+        "description": "The most powerful heroes and villains in the Marvel Universe square off on Battleword with the victor promised their greatest dreams and desires! Writer Jim Shooter and artists Mike Zeck and Bob Layton introduce the Beyonder in a 12-issue event featuring the Avengers, the X-Men, the Fantastic Four, Spider-Man, Magneto, Doctor Doom and more!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "modified": "2013-06-28T16:01:30-0400",
+        "start": "1984-05-10 00:00:00",
+        "end": "2008-12-17 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/51cdeb7048dac",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 323,
+        "title": "Secret Wars (2015)",
+        "description": "Time Runs Out. Everything Ends. The Secret Wars commence in May 2015 from Jonathan Hickman and Esad Ribic!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "modified": "2016-06-30T13:49:59-0400",
+        "start": "2015-05-01 07:01:00",
+        "end": "2015-12-31 07:59:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/545be45c5d6cc",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 271,
+        "title": "Secret Wars II",
+        "description": "The omnipotent Beyonder comes to Earth to better understand the concept of desire as the heroes assemble to combat the threat he poses.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "modified": "2015-01-21T17:09:37-0500",
+        "start": "1985-07-10 00:00:00",
+        "end": "2009-05-13 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/51cdec7c4d64d",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 59,
+        "title": "Shadowland",
+        "description": "Matt Murdock dared evil ... and lost! The battle for the soul of a hero begins! Pushed beyond his limits, Daredevil faces off for a final time against his deadliest foe--Bullseye--in their most brutal battle ever with more than just Hell's Kitchen is at stake. Spider-Man, Luke Cage, Iron Fist, Punisher and more join forces to stop a war that is breaking out throughout New York, with Daredevil at the center. This event will change the streets of New York City--and the heroes that protect it--forever.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/59",
+        "modified": "2013-06-25T17:55:47-0400",
+        "start": "2010-09-08 00:00:00",
+        "end": "2010-12-02 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/51ca11b869805",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 309,
+        "title": "Shattered Heroes",
+        "description": "Welcome to Shattered Heroes, a bold new beginning featuring the Avengers, The Hulk, the Defenders and more as they carve out new roles in the Marvel Universe. Prepare for new teams, new heroes and new threats like you\u00e2\u20ac\u2122ve never seen before!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+        "modified": "2013-06-28T18:41:03-0400",
+        "start": "2011-10-19 00:00:00",
+        "end": "2012-04-22 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/511e8000770cd",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 273,
+        "title": "Siege",
+        "description": "When Norman Osborn gathers his evil Cabal to attack Asgard, Captain America leads the Avengers to end the Dark Reign! In a four-issue event written by Brian Michael Bendis with art by Olivier Coipel, Earth's Mightiest reunite to oppose their dark counterparts and kick start a Heroic Age!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "modified": "2013-07-01T22:16:04-0400",
+        "start": "2009-12-06 00:00:00",
+        "end": "2010-05-19 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5109a26a41b77",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 219,
+        "title": "Siege of Darkness",
+        "description": "The demonic union of Zarathos and Lilith spells supernatural trouble for Earth unless the Midnight Sons can stop the carnage.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/219",
+        "modified": "2013-06-26T14:08:20-0400",
+        "start": "1993-12-10 00:00:00",
+        "end": "1993-12-20 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/51cb2ddc7fd29",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 305,
+        "title": "Spider-Island",
+        "description": "This summer, heroes, villains and ordinary people across Manhattan gain spider abilities, but not all realize that with great power comes great responsibility! Can Spider-Man keep the peace? Dan Slott spearheads this arachna-tastic event in the pages of Amazing Spider-Man!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/305",
+        "modified": "2013-07-18T13:36:07-0400",
+        "start": "2011-08-29 00:00:00",
+        "end": "2011-11-11 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51e827657c1d0",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 321,
+        "title": "Spider-Verse",
+        "description": "When the unstoppable Morlun returns, it will take every Spider-Man EVER to stop him! Dan Slott and Olivier Coipel spearhead a massive event that unites wall-crawlers across all universes against a single threat, swinging through Amazing Spider-Man and a web of tie-ins!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/321",
+        "modified": "2014-08-27T13:46:04-0400",
+        "start": "2014-11-01 00:01:00",
+        "end": "2015-03-31 23:59:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/53fe06b552b27",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 327,
+        "title": "Star Wars",
+        "description": "A long time ago in a galaxy far, far away, the adventures of Luke Skywalker, Han Solo, Princess, Leia, Darth Vader and more continue! Set following the events of Episode IV: A New Hope, Marvel's ongoing Star Wars comics reveal new stories featuring these classic characters!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+        "modified": "2015-01-15T17:18:30-0500",
+        "start": null,
+        "end": null,
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/54b83921efd20",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 294,
+        "title": "The Thanos Imperative",
+        "description": "A realm where death has become extinct bleeds into our reality, and in order to stop it the Guardians of the Galaxy must recruit one of their greatest enemies: Thanos! This six-issue event written by Dan Abnett and Andy Lanning with art by Miguel Sepulveda chronicles if the Marvel Universe\u00e2\u20ac\u2122s most notorious murderer will find redemption or doom all that live!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+        "modified": "2013-10-18T12:42:10-0400",
+        "start": "2010-08-26 00:00:00",
+        "end": "2011-01-05 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/51099f1f3d12d",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 276,
+        "title": "War of Kings",
+        "description": "In an effort to punish the Skrulls for their attempted Invasion, the Inhumans chase down a Skrull vessel, only to accidentally destroy a Shi'Ar ship instead, enraging the Shi'Ar emperor, the powerful mutant Vulcan. The Inhumans find themselves allied with the Kree against a Vulcan-led Shi'Ar incursion.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/276",
+        "modified": "2013-06-28T18:11:14-0400",
+        "start": "2009-03-07 00:00:00",
+        "end": "2009-08-12 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/51c9ef1d87ded",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 277,
+        "title": "World War Hulk",
+        "description": "When the Illuminati sent the Hulk into outer space, they hoped he would find peace\u00e2\u20ac\u201dthey never expected he would return with an army at his back! The Worldbreaker and his Warbound challenge the heroes of Earth in a six-issue event written by Greg Pak with art by John Romita Jr. featuring the explosive battles and all-out action!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/277",
+        "modified": "2013-07-01T22:43:23-0400",
+        "start": "2007-07-01 00:00:00",
+        "end": "2008-01-01 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/51cb536ed3054",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 60,
+        "title": "World War Hulks",
+        "description": "The fall is over. Long wage the war. Red Hulk and Banner have failed, and their worst nightmares have come to kill them. Will they die fighting M.O.D.O.K. and his army of Hulks, or die by the hands of the Hulked-Out Heroes?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/60",
+        "modified": "2017-04-18T17:52:24-0400",
+        "start": "2007-07-07 00:00:00",
+        "end": "2008-01-27 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/51c9d9d98751c",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 316,
+        "title": "X-Men: Battle of the Atom",
+        "description": "The presence of the original X-Men in the modern day has drawn mutants from the future back in time for a clash that will determine the fate of their race! With the timestream unraveling and civil war on the horizon, this 10-issue event features the talents of Brian Michael Bendis, Jason Aaron, Brian Wood, Frank Cho and many more!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/316",
+        "modified": "2013-07-31T11:01:52-0400",
+        "start": "2013-09-04 00:00:00",
+        "end": "2013-10-31 00:01:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/51f926c5de8e9",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 308,
+        "title": "X-Men: Regenesis",
+        "description": "In the aftermath of X-Men: Schism, the Children of the Atom have split, with Cyclops and his team remaining on Utopia while Wolverine has returned to Westchester and opened the Jean Grey School for Higher Learning. Follow the new stage of evolution for Marvel's mutants in X-Men: Regenesis!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+        "modified": "2013-08-19T16:17:57-0400",
+        "start": "2011-10-12 00:00:00",
+        "end": "2012-04-25 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/52127d4ca297c",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 306,
+        "title": "X-Men: Schism",
+        "description": "A new Hellfire Club unleashes Sentinels on Utopia and causes a split in the X-Men! While Cyclops would mobilize the youth of mutantkind against those who would threaten them, Wolverine seeks to teach the next generation a new way. Writer Jason Aaron and an unparalleled team of artists explore this turning point in X-Men history with a five-issue event!",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/306",
+        "modified": "2013-07-01T22:58:01-0400",
+        "start": "2011-07-04 00:00:00",
+        "end": "2011-10-05 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/5109a0811486f",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 279,
+        "title": "X-Men: Second Coming",
+        "description": "Cable and Hope have returned to the present, but will it be too late to save mutantkind as Bastion unleashes his final assault on the X-teams?",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/279",
+        "modified": "2016-08-09T17:21:39-0400",
+        "start": "2010-03-31 00:00:00",
+        "end": "2010-07-23 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/51ca15c4782bc",
+          "extension": "jpg"
+        }
+      },
+      {
+        "id": 280,
+        "title": "X-Tinction Agenda",
+        "description": "Genoshan forces attack Xavier's School in an attempt to make the X-Men pay for their \"crimes\" against the island nation.",
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/280",
+        "modified": "2013-06-28T16:52:57-0400",
+        "start": "1990-11-10 00:00:00",
+        "end": "1991-01-10 00:00:00",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/51cb2e6e772b6",
+          "extension": "jpg"
+        }
+      }
+    ]
+  }
+}
